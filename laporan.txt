@@ -1,0 +1,5 @@
+<laporan_toko nama="Toko Sukses Makmur">
+  <transaksi><invoice>INV-2026-1</invoice><aktor>ACT-01</aktor><nama>Andi</nama><tier>Gold</tier><produk>OBJ-A</produk><qty>3</qty><total>24712500</total></transaksi>
+  <transaksi><invoice>INV-2026-2</invoice><aktor>ACT-02</aktor><nama>Rina</nama><tier>Silver</tier><produk>OBJ-C</produk><qty>2</qty><total>66500</total></transaksi>
+  <transaksi><invoice>INV-2026-3</invoice><aktor>ACT-02</aktor><nama>Rina</nama><tier>Silver</tier><produk>OBJ-A</produk><qty>1</qty><total>8662500</total></transaksi>
+</laporan_toko>
